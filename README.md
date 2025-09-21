@@ -1,4 +1,18 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Enabled Deployment In Action with GCP
+
+---
+## Student Details
+- *Name:* H.W.Sachindu Sadaruwan
+- *Student Registration Number:* 2301682020
+- *Email Address:* sadaruwansachindu@gmail.com
+
+---
+## 📹 Video Demonstration
+
+A short video demonstrating the live, deployed application can be found at the following link:
+
+**[Link to Video Demonstration](https://drive.google.com/file/d/1qqA5tbW2rFDIr6xN_m2F-ICEbNTo0b4w/view?usp=sharing)**
+
 
 This repository contains four projects:
 
